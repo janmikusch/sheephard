@@ -1,5 +1,6 @@
 ### Youtube: https://youtu.be/904qsuJIvfo ###
- 
+> This was my first Project (multimedia project 1) at the [Salzburg University of Applied Sciences](https://fh-salzburg.ac.at)
+
 # Short Overview
 ## Game1:
 * Initialize Game
@@ -26,3 +27,5 @@
 ## ScoreBoard 
 * Draws a Scoreboard on the screen 
 * Is holding the Score for each player 
+
+
