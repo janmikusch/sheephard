@@ -1,5 +1,5 @@
 ### Youtube: https://youtu.be/904qsuJIvfo ###
-> This was my first Project (multimedia project 1) at the [Salzburg University of Applied Sciences](https://fh-salzburg.ac.at)
+> This was my first Project (multimedia project 1) at the [Salzburg University of Applied Sciences](https://fh-salzburg.ac.at). It was created with MonoGame and C#. 
 
 # Short Overview
 ## Game1:
